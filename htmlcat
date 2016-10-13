@@ -1,0 +1,6 @@
+#!/bin/bash
+printf '\0335'
+printf '<link href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" rel="stylesheet">'
+cat $1
+printf '\0336'
+
